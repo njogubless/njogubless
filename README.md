@@ -1,8 +1,5 @@
-## Hi there 👋
-
-<!--
-**njogubless/njogubless** is a ✨ _special_ ✨ repository becau# 💫 About Me:
-I'm a fullstack Developer, moving into DevOps.<br>I do Flutter and Dart for mobile APplications and Django for backend.<br>I build API's that I consume in my Applications.<br>I'm interested in DevOps and its practices, I get to implement them in my backend projects.<br>I would love to know Machine Learning
+# 💫 About Me:
+I'm a fullstack Developer.<br>I do Flutter and Dart for mobile APplications and Django for backend.<br>I build API's that I consume in my Applications.<br>I'm interested in DevOps and its practices, I get to implement them in my backend projects.<br>I would love to know Machine Learning
 
 
 ## 🌐 Socials:
@@ -24,16 +21,4 @@ I'm a fullstack Developer, moving into DevOps.<br>I do Flutter and Dart for mobi
 ---
 [![](https://visitcount.itsvg.in/api?id=njogubless&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->se its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
