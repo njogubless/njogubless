@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a fullstack Developer.<br>I do Flutter and Dart for mobile APplications and Django for backend.<br>I build API's that I consume in my Applications.<br>I'm interested in DevOps and its practices, I get to implement them in my backend projects.<br>I would love to know Machine Learning
+I'm a full-stack Developer.<br>I do Flutter and Dart for mobile Applications and Django for backend.<br>I build RESTful API's that I consume in my Applications.<br>I do DevOps because Platform Engineering is the Goal.<br> My interest is in Machine Learning from 21 Lessons of the 21st Century.
 
 
 ## 🌐 Socials:
